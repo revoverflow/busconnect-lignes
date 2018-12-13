@@ -2,11 +2,11 @@
 
 ## A faire:
 
-Lignes de bus :
+**Lignes de bus :**
 - [ ] Ligne 171
 - [ ] Ligne 132
 
-Lignes de colibri :
+**Lignes de colibri :**
 - [ ] Ligne Colibri 1
 - [ ] Ligne Colibri 2
 - [ ] Ligne Colibri 3
