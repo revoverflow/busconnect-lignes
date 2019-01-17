@@ -1,0 +1,46 @@
+{
+  "Grand parc": [
+    {
+      "name": "La Sereine",
+      "ville": "Beynost",
+      "lat": 45.8352167,
+      "long": 4.999561111111111
+    },
+    {
+      "name": "Les Hirondelles",
+      "ville": "Saint-Maurice-De-Beynost",
+      "lat": 45.8303,
+      "long": 4.9813583333333336
+    },
+    {
+      "name": "Place de la République",
+      "ville": "Miribel",
+      "lat": 45.8258528,
+      "long": 4.957791666666667
+    },
+    {
+      "name": "Centre",
+      "ville": "Miribel",
+      "lat": 45.8244222,
+      "long": 4.953925
+    },
+    {
+      "name": "Centre équestres",
+      "ville": "Grand Parc",
+      "lat":  45.814150,
+      "long": 4.936730
+    },
+    {
+      "name": "Le Morlet",
+      "ville": "Grand Parc",
+      "lat": 45.801608,
+      "long": 4.936002
+    },
+    {
+      "name": "L'Atol'",
+      "ville": "Grand Parc",
+      "lat": 45.797990,
+      "long": 4.941329
+    },
+  ]
+}
