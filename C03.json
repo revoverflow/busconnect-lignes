@@ -1,0 +1,76 @@
+{
+  "arrets": [
+    {
+      "name": "Centre",
+      "ville": "Miribel",
+      "lat": 45.824432,
+      "long": 4.953965
+    },
+    {
+      "name": "Terreaux",
+      "ville": "Miribel",
+      "lat": 45.826585,
+      "long": 4.953106
+    },
+    {
+      "name": "Les Buttières",
+      "ville": "Miribel",
+      "lat": 45.825597,
+      "long": 4.945528
+    },
+    {
+      "name": "Madone",
+      "ville": "Miribel",
+      "lat": 45.828501,
+      "long": 4.949916
+    },
+    {
+      "name": "Mas Rillier",
+      "ville": "Miribel",
+      "lat":  45.829529,
+      "long": 4.945890
+    },
+    {
+      "name": "Les Alouettes",
+      "ville": "Neyron",
+      "lat": 45.824354,
+      "long": 4.928851
+    },
+    {
+      "name": "Eglise",
+      "ville": "Neyron",
+      "lat": 45.820713,
+      "long": 4.930214
+    },
+    {
+      "name": "Famine",
+      "ville": "Neyron",
+      "lat": 45.819762,
+      "long": 4.926468
+    },
+    {
+      "name": "ZAC de Sermenaz",
+      "ville": "Neyron",
+      "lat": 45.821756,
+      "long": 4.922960
+    },
+    {
+      "name": "Porte du Grand Lyon",
+      "ville": "Neyron",
+      "lat": 45.823249,
+      "long": 4.920743
+    },
+    {
+      "name": "Semailles",
+      "ville": "Rillieux-la-Pape",
+      "lat": 45.819378,
+      "long": 4.908669
+    },
+    {
+      "name": "Les Alagniers",
+      "ville": "Rillieux-la-Pape",
+      "lat": 45.814998,
+      "long": 4.893742
+    },
+  ]
+}
