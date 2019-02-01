@@ -1,130 +1,130 @@
 {
-  "Colibri 2": [
+  "Arrets": [
     {
       "name": "Gare",
       "ville": "Miribel",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.822311,
+      "long": 4.953986
     },
     {
       "name": "Mairie",
       "ville": "Miribel",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.822735,
+      "long": 4.953022
     },
     {
       "name": "Centre",
       "ville": "Miribel",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.824432,
+      "long": 4.953965
     },
     {
       "name": "Place de la République",
       "ville": "Miribel",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.825866,
+      "long": 4.957789
     },
     {
       "name": "Henri Deschamps",
       "ville": "Miribel",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.827562,
+      "long": 4.961681
     },
     {
       "name": "Anne Frank",
       "ville": "Miribel",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.827362,
+      "long": 4.966484
     },
     {
       "name": "Trève",
       "ville": "Miribel",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.828100,
+      "long": 4.970694
     },
     {
       "name": "Mairie",
       "ville": "Saint-Maurice de Beynost",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.830517,
+      "long": 4.976186
     },
     {
       "name": "8 mai 1945",
       "ville": "Saint-Maurice de Beynost",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.832948,
+      "long": 4.977981
     },
     {
       "name": "Les Andrés",
       "ville": "Saint-Maurice de Beynost",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.834431,
+      "long": 4.983679
     },
     {
       "name": "Pommières",
       "ville": "Beynost",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.836903,
+      "long": 4.988933
     },
     {
       "name": "Grandes vignes",
       "ville": "Beynost",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.838265,
+      "long": 4.995090
     },
     {
       "name": "La Sereine",
       "ville": "Beynost",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.8352167,
+      "long": 4.999561111111111
     },
     {
       "name": "Louis Armstrong",
       "ville": "Beynost",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.837242,
+      "long": 5.007730
     },
     {
       "name": "Gare",
       "ville": "Beynost",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.834057,
+      "long": 5.007044
     },
     {
       "name": "Barronières",
       "ville": "Beynost",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.831361,
+      "long": 5.009370
     },
     {
       "name": "Actinove",
       "ville": "Beynost",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.828555,
+      "long": 5.010637
     },
     {
       "name": "Zone commerciale des Baterses",
       "ville": "Beynost",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.826232,
+      "long": 4.999222
     },
     {
       "name": "Pré Caillat",
       "ville": "Beynost",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.821828,
+      "long": 4.994538
     },
     {
       "name": "Les Combes",
       "ville": "Saint-Maurice de Beynost",
-      "lat": 45.8142611,
-      "long": 5.021975
+      "lat": 45.824222,
+      "long": 4.988348
     },
     {
       "name": "Forum des sports - Lilô",
       "ville": "Saint-Maurice de Beynost",
-      "lat": 45.829529,
-      "long": 4.945890
+      "lat": 45.826502,
+      "long": 4.985168
     },
 
   ]
