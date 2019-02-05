@@ -1,0 +1,34 @@
+{
+  "arrets": [
+    {
+      "name": "Parc de la Tête d'Or-Churchill",
+      "ville": "Lyon",
+      "lat": 45.776686,
+      "long": 4.844523
+    },
+    {
+      "name": "Interpol",
+      "ville": "Lyon",
+      "lat": 45.782382,
+      "long": 4.849840
+    },
+    {
+      "name": "Musée d'Art Comtemporain",
+      "ville": "Lyon",
+      "lat": 45.783839,
+      "long": 4.852726
+    },
+    {
+      "name": "Cité Internationale",
+      "ville": "Lyon",
+      "lat": 45.784725,
+      "long": 4.857509
+    },
+    {
+      "name": "Cité Internationale-Transbordeur",
+      "ville": "Lyon",
+      "lat": 45.784359,
+      "long": 4.859994
+    }
+  ]
+}
