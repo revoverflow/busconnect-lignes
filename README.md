@@ -3,11 +3,11 @@
 ## A faire:
 
 **Lignes de bus :**
-- [fait] Ligne 171
-- [fait] Ligne 132
+[x] Ligne 171
+[x] Ligne 132
 
 **Lignes de colibri :**
-- [fait] Ligne Colibri 1
-- [fait] Ligne Colibri 2
-- [fait] Ligne Colibri 3
-- [fait] Ligne Colibri 4
+[x] Ligne Colibri 1
+[x] Ligne Colibri 2
+[x] Ligne Colibri 3
+[x] Ligne Colibri 4
